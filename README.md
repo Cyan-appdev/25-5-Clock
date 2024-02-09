@@ -10,4 +10,5 @@ For the fulfillment of Build a 25 + 5 Clock Project.
 
 ##
 
+![alt text](/public/image.png)
 FreeCodeCamp Profile - [@CyanDev](https://www.freecodecamp.org/CyanDev)
